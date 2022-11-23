@@ -8,3 +8,14 @@ metadata:
     picture: 
 spec:
   memberOf: [thoughtworks, awesome-project]
+  ...
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: tw-vignesh
+  profile:
+    displayName: vigneshsv568
+    email: vigneshsv568@gmail.com
+    picture: 
+spec:
+  memberOf: [thoughtworks, awesome-pet]
